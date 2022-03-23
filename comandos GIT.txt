@@ -1,0 +1,11 @@
+git remote add origin https://github.com/MarciaOliver/exercicio-html.git
+git branch -M main
+git push -u origin main
+
+
+git init -- incializa o repositório GIT
+git add -- adiciona todos os aquivos
+git commit - m "Mensagem" --cria a versão dos arquivos
+
+git config --global user.name "Seu nome"
+git confgi --global user.email "email@dominio.com"
